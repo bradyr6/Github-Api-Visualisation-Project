@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d90ef3c1.chunk.css",
+    "main.js": "/static/js/main.ea29f316.chunk.js",
+    "main.js.map": "/static/js/main.ea29f316.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.26f34a92.js",
+    "runtime-main.js.map": "/static/js/runtime-main.26f34a92.js.map",
+    "static/css/2.0b76d70b.chunk.css": "/static/css/2.0b76d70b.chunk.css",
+    "static/js/2.c5a6a2c2.chunk.js": "/static/js/2.c5a6a2c2.chunk.js",
+    "static/js/2.c5a6a2c2.chunk.js.map": "/static/js/2.c5a6a2c2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b1a72c3677ffe67e5210b3bf37e3a71d.js": "/precache-manifest.b1a72c3677ffe67e5210b3bf37e3a71d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.0b76d70b.chunk.css.map": "/static/css/2.0b76d70b.chunk.css.map",
+    "static/css/main.d90ef3c1.chunk.css.map": "/static/css/main.d90ef3c1.chunk.css.map",
+    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26f34a92.js",
+    "static/css/2.0b76d70b.chunk.css",
+    "static/js/2.c5a6a2c2.chunk.js",
+    "static/css/main.d90ef3c1.chunk.css",
+    "static/js/main.ea29f316.chunk.js"
+  ]
+}
