@@ -2,4 +2,4 @@
 
 ![](gif-demo.1.gif)
 
-![](gif-demo.1)
+![](gif%20demo.1.gif)
